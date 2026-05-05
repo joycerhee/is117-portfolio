@@ -8,4 +8,4 @@ This portfolio showcases a junior frontend developer with UX focus, tailored for
 
 ## Orchestration Log
 
-During the build, Copilot generated the contact form with a submit handler that displayed a success message ("Your request has been received") but never actually sent the data anywhere — no email integration, no backend, no mailto link. The form looked like it worked but silently did nothing. I caught this during testing and added a mailto fallback so the form actually opens the user's email client with the message pre-filled, ensuring the CTA functions on submission.
+During the build, Copilot generated the contact form with a submit handler that displayed a success message ("Your request has been received") but never actually sent the data anywhere. There was no email integration, no backend, no mailto link. The form looked like it worked but it did nothing. I caught this during testing and added a mailto fallback so the form actually opens the user's email client with the message pre-filled, ensuring the CTA functions on submission.
