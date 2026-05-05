@@ -1,6 +1,6 @@
 # The NJ Defense & Pharma UX Portfolio
 
-**Live Link:** https://joycerhee.github.io/portfolio
+**Live Link:** https://joycerhee.github.io/is117-portfolio
 
 ## Project Overview
 
